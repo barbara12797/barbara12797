@@ -1,4 +1,9 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙💙
+Meu nome é barbara
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 
 <!--
 **barbara12797/barbara12797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
